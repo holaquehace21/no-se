@@ -39,7 +39,7 @@ public class App {
         // Numeros
 
         byte entero = 12;
-        System.out.println("Entero " + entero);
+        // System.out.println("Entero " + entero);
 
         // short entero1 = 32521;
         // System.out.println("Entero1 " + entero1);
